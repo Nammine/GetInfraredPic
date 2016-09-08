@@ -1,3 +1,3 @@
 # GetInfraredPic
 
-![pic](result1.JPG)
+![pic](result2.JPG)
