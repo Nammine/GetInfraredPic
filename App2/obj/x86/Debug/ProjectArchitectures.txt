@@ -1,0 +1,1 @@
+C:\KinectProject\App2\App2\App2.csproj;x86
